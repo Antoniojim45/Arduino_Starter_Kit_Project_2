@@ -1,0 +1,4 @@
+Project 2 - spaceship interface. 
+
+-- make a interface with more lights and a more complex pattern
+-- make some sort of indicator with the LEDs and switches. 
